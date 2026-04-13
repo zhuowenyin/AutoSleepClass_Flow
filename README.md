@@ -8,7 +8,7 @@ The classification workflow code is written by Leilei Hao and Zhuowen Yin.
 
 ## Setup and Running Code
 
-You can open sleep_classification_workflow.ipynb, set up prerequisite and data directories, and run the workflow in the notebook. The code relies on the PySleep modules in https://github.com/tortugar/Lab/tree/master/PySleep.
+You can open sleep_classification_workflow.ipynb, set up prerequisites and data directories, and run the workflow in the notebook. The code relies on the PySleep modules in https://github.com/tortugar/Lab/tree/master/PySleep.
 
 ## Functionalities
 
