@@ -2,9 +2,9 @@
 
 This is the automatic sleep classification script used in the the paper:
 
-Hao, L.\*, Woolley, J.\*, Yin, Z.\*, Jin, X., Stucynski, J., Ortega, R. A. S., ... & Weber, F. (2026). Heart rate and sleep history encode ultradian REM sleep timing. [*Current Biology*](https://www.cell.com/current-biology/fulltext/S0960-9822(26)00167-3).
+Hao, L.\*, Woolley, J.\*, Yin, Z.\*, Jin, X., Stucynski, J., Ortega, R. A. S., Corder, G., Chung, S., & Weber, F. (2026). Heart rate and sleep history encode ultradian REM sleep timing. [*Current Biology*](https://www.cell.com/current-biology/fulltext/S0960-9822(26)00167-3).
 
-The classification workflow code is writen by Leilei Hao and Zhuowen Yin.
+The classification workflow code is written by Leilei Hao and Zhuowen Yin.
 
 ## Setup and Running Code
 
